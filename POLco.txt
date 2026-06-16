@@ -1,0 +1,12 @@
+add_core 5 POL
+add_core 85 POL
+add_core 63 POL
+add_core 68 POL
+add_core 66 POL
+add_core 67 POL
+setowner POL 5
+setowner POL 63
+setowner POL 66
+setowner POL 67
+setowner POL 68
+setowner POL 85
